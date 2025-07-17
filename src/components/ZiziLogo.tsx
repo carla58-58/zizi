@@ -10,6 +10,7 @@ export function ZiziLogo(props: React.JSX.IntrinsicAttributes & React.SVGProps<S
       className="group"
       {...props}
     >
+      
       <mask
         id="mask0_342_66"
         style={{ maskType: "alpha" }}
