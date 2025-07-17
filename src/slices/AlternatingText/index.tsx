@@ -12,7 +12,6 @@ import clsx from "clsx";
 import { FC } from "react";
 import Scene from "./Scene";
 
-
 /**
  * Props for `AlternatingText`.
  */
@@ -64,3 +63,5 @@ const AlternatingText: FC<AlternatingTextProps> = ({ slice }) => {
 };
 
 export default AlternatingText;
+
+
