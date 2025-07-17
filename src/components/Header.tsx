@@ -1,10 +1,12 @@
 import React from 'react'
-import { FizziLogo } from '@/components/FizziLogo'
+import { ZiziLogo } from './ZiziLogo'
 
 export default function Header() {
   return (
     <header className="flex justify-center py-4 -mb-28">
-      <FizziLogo className="h-20 z-10 cursor-pointer text-red-800"/>
+      <div className="group">
+        <ZiziLogo className="h-20 z-10 cursor-pointer text-red-800" />
+      </div>
     </header>
   )
 }
