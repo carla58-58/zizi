@@ -1,7 +1,7 @@
-🌟 Fizzi 3D E-commerce Landing Page 
+🌟 Zizi 3D E-commerce Landing Page 
 
-Welcome to my portfolio project—a creative, scroll-animated 3D e-commerce landing page for a fictional soda brand, Fizzi. 
-Built following the course "Build a 3D Ecommerce Landing Page with Next.js 14, GSAP, Three.js and Prismic", this project showcases modern front-end techniques and a fully interactive, visually engaging user experience.
+Welcome to my portfolio project—a creative, scroll-animated 3D e-commerce landing page for a fictional soda brand, Zizi Soda. 
+This project showcases modern front-end techniques and a fully interactive, visually engaging user experience.
 
 🚀 Tech Stack
 Next.js 14 – React framework for fast, scalable web apps
@@ -29,7 +29,7 @@ Rich animations and micro-interactions via GSAP and ScrollTrigger
 
 Seamless integration of content and code for client-friendly editing and developer flexibility
 
-Deployed live on Vercel for instant sharing with clients or recruiters
+Deployed live on Vercel for instant sharing
 
 📚 What I Learned
 Through this project, I deepened my skills in:
